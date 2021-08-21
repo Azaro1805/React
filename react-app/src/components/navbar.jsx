@@ -16,4 +16,30 @@ class Navbar extends Component {
   }
 }
 
+
+/*
+const Navabr = (props) =>{
+ return (
+      <nav classname="navbar navbar-light bg-light">
+        <div cldivss="container-fluid">
+         
+          Navbar{" "}
+          <span className="badge badge-pill badge bg-primary m-2 bg-">
+            {props.totalCounters}
+          </span>
+        </div>
+      </nav>
+    );
+};
+*/
+
+
+
+
+
+
+
+
+
+
 export default Navbar;
